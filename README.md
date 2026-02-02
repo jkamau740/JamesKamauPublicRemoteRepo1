@@ -18,3 +18,5 @@ This is a basic practice repository to learn version control with Git and GitHub
 Learning and practicing Git workflows and collaboration.
 
 Local change made by James Kamau.
+Remote change made by James Kamau.
+
